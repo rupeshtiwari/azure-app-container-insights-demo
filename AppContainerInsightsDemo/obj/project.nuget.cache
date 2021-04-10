@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Uxfkk2TsPlSO2S2vrG5CoDik8Cjrs9v+mZ+yNI5lsblKEFpNAF15IqiVRSo5sqeAobipjZwcJXjgkM1rm012A==",
+  "success": true,
+  "projectFilePath": "C:\\Rupesh\\Github\\azure\\azure-app-container-insights-demo\\AppContainerInsightsDemo\\AppContainerInsightsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rupesh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
